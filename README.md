@@ -1,6 +1,6 @@
 # Hi there, I'm Rishita Sharma 👋
 
-🏆 National Winner - Statathon 2025
+🏆 National Winner - Statathon 2025-2026
 🎓 B.Tech CSE (AI & ML) Student
 🤖 Aspiring AI/ML Engineer & Data Scientist
 📍 Haryana, India
