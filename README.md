@@ -69,9 +69,9 @@ AI-powered dream interpretation and recommendation system.
 
 ## 📫 Connect With Me
 
-LinkedIn: YOUR_LINKEDIN
+LinkedIn: https://www.linkedin.com/in/rishita-sharma-aa570628a/
 
-Email: YOUR_EMAIL
+Email: sharma.rishita0573@gmail.com
 
 ---
 
